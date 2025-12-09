@@ -9,3 +9,8 @@ simple project file
 
 
 3- lets test
+
+git test--
+
+git test2
+
